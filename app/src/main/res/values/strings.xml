@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Osmolator</string>
+    <string name="quantity_of_samples_to_be_immersed">Qty of samples to immerse</string>
+    <string name="weight_of_unit_sample">Weight of unit sample (g)</string>
+    <string name="fruit_sugar_solution_ratio">Fruit/Sugar solution ratio</string>
+    <string name="degree_brix_level">Degree Brix</string>
+    <string name="result_page_label">Result</string>
+    <string name="how_much_sugar_and_water_do_i_need">Calculate the amt of sugar and water required</string>
+    <string name="set_your_processing_parameters_as_follows">Set your processing parameters as follows:</string>
+    <string name="g_sugar">g Sugar</string>
+    <string name="in">in</string>
+    <string name="ml_water"> mL Water</string>
+    <string name="developer_note">Developer\'s Note</string>
+    <string name="developer_full_note">The app name \'osmolator\' was coined from osmotic dehydration calculator. Osmotic dehydration was a core part of my MSc research at the university of Ibadan, Nigeria in 2018. It involves dissolution of salt, sugar or a mixture of solutes to form a solution of defined brix level inside which food samples such as fruits or vegetables can be immersed to be dehydrated and preserved and / or developed into new products. Calculating the amount of solute and water needed to make a solution of predefined brix level became repetitive, stressful and time-consuming for me whenever I was working in the lab. Hence, I developed this app to ease my task, ensure accuracy and shorten overall time for the experiment.</string>
+    <string name="asumme">Assume 1g/mL density of water. Set your processing variables below:</string>
+    <string name="prepare">prepare</string>
+    <string name="abdulquadri_o_alaka">Abdulquadri O. Alaka</string>
+    <string name="abdulquadrialaka_gmail_com">abdulquadrialaka@gmail.com</string>
+</resources>

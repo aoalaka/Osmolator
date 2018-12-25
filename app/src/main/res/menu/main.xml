@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.aoalaka.android.osmolator.MainActivity">
+    <item
+        android:id="@+id/action_developer"
+        android:title="@string/developer_note" />
+</menu>
